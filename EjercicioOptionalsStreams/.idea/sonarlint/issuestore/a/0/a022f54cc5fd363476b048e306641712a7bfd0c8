@@ -1,0 +1,6 @@
+
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–¿Á‰øÿÿÿÿ8©Ë×ò’3
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÑÚã8ªË×ò’3
+w	java:S116"VRename this field "nro_cliente" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úõÄïþÿÿÿÿ8´Ë×ò’3
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥’Ê³ýÿÿÿÿ8ÁË×ò’3
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÑÚã8ÃË×ò’3
