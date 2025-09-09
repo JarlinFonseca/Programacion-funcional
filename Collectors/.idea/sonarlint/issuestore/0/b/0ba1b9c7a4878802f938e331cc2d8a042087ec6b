@@ -1,0 +1,14 @@
+
+p
+java:S54110"(Use a primitive boolean expression here.(Ôž†Ëùÿÿÿÿ8æ§µó’3J$2b00e19e-aa0a-4dd5-919c-76ba44558f2b
+•
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ï§µó’3J$8b38e3a3-3744-4e01-9a72-0f77ab377ea8
+r	java:S106"+Replace this use of System.out by a logger.(‘Ô¯ïûÿÿÿÿ8ð§µó’3J$a712e857-6d67-4339-b42f-dc91bf6c0649
+r	java:S106"+Replace this use of System.out by a logger.(…íë¶ýÿÿÿÿ8ñ§µó’3J$21459046-3d59-457f-9e79-bcf49266aec2
+‰
+java:S1858"A"collect" returns a string, there's no need to call "toString()".(·ùÝ¶ùÿÿÿÿ8ò§µó’3J$f365a08b-6e79-405b-8c63-4d16c8d6e952
+m	java:S106 "+Replace this use of System.out by a logger.(¾™’¨8ò§µó’3J$b9fac47c-027c-4ee9-8756-f7ff0301c645
+r	java:S106)"+Replace this use of System.out by a logger.(ÂÎÊ•úÿÿÿÿ8ó§µó’3J$292e0e99-af33-4d66-9d39-5016214157a0
+m	java:S1061"+Replace this use of System.out by a logger.(î¯ï³8ó§µó’3J$3fa8cce1-4067-4ca2-bf59-d70e7cb55ddc
+m	java:S1063"+Replace this use of System.out by a logger.(ÜÖÇü8ô§µó’3J$184e7e6e-3ca8-4dbc-8ea8-c7955895b9b4
+m	java:S1069"+Replace this use of System.out by a logger.(…ïæÙ8ÀØµó’3J$d9d2423d-9a85-44c3-aed2-dfe3992b6f36
